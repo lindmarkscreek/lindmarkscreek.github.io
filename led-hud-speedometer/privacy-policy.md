@@ -1,12 +1,12 @@
 ---
-title: LED HUD Speedometer – Privacy Policy
+title: "GPS Speedometer: Car HUD – Privacy Policy"
 ---
 
-# Privacy Policy – LED HUD Speedometer
+# Privacy Policy – GPS Speedometer: Car HUD
 
-_Last updated: 21 October 2026_
+_Last updated: 22 October 2026_
 
-LED HUD Speedometer ("the app") is a GPS speedometer for Android, published by lindmarkscreek
+GPS Speedometer: Car HUD ("the app") is a GPS speedometer for Android, published by lindmarkscreek
 ("we"). This policy explains what data the app uses and why.
 
 ## Summary
