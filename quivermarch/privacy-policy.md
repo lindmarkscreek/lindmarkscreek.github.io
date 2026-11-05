@@ -1,7 +1,3 @@
----
-title: "Quiver March – Privacy Policy"
----
-
 # Quiver March – Privacy Policy
 
 *Last updated: 5 November 2026*
